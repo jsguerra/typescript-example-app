@@ -1,1 +1,1 @@
-# typescript-example-app
+# Typescript Example App
